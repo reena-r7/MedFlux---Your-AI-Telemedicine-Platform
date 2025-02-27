@@ -52,10 +52,10 @@ Welcome to MedFlux, an AI-powered medical assistant web app. The mission is to p
 </div>
 <div align="center">
     <img src="screenshots/mindbot2.png" alt="Mind-Bot" width="380" height="225">
-    <img src="screenshots/mindbot3.png" alt="Mind-Bot Response" width="380" height="225">
+    <img src="screenshots/mindbot3.png" alt="Mind-Bot Response1" width="380" height="225">
 </div>
 <div align="center">
-    <img src="screenshots/mindbot4.png" alt="Consult Doctor" width="380" height="225">
+    <img src="screenshots/mindbot4.png" alt="Mind-Bot Response2" width="380" height="225">
     <img src="screenshots/doc1.png" alt="Doctor Appointment" width="380" height="225">
 </div>
 <div align="center">
@@ -63,8 +63,8 @@ Welcome to MedFlux, an AI-powered medical assistant web app. The mission is to p
     <img src="screenshots/doc3.png" alt="Doctor Appointment" width="380" height="225">
 </div>
 <div align="center">
-    <img src="screenshots/booked.png" alt="Consult Doctor" width="380" height="225">
-    <img src="screenshots/devpg.png" alt="Doctor Appointment" width="380" height="225">
+    <img src="screenshots/booked.png" alt="Book Appointment" width="380" height="225">
+    <img src="screenshots/devpg.png" alt="Developers" width="380" height="225">
 </div>
 
 
