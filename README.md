@@ -64,7 +64,7 @@ Welcome to MedFlux, an AI-powered medical assistant web app. The mission is to p
 </div>
 <div align="center">
     <img src="screenshots/booked.png" alt="Book Appointment" width="380" height="225">
-    <img src="screenshots/devpg.png" alt="Developers" width="380" height="225">
+    <img src="screenshots/dev pg.png" alt="Developers" width="380" height="225">
 </div>
 
 
