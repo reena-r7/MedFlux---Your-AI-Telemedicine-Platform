@@ -11,7 +11,7 @@ Welcome to MedFlux, an AI-powered medical assistant web app. The mission is to p
 
 ## Web App Link
 
-**Click [here](https://heal-smart.vercel.app/) to visit the web app.**
+**Click [here](https://glowing-treacle-6d4a38.netlify.app/) to visit the web app.**
 
 
 ## Key Features
