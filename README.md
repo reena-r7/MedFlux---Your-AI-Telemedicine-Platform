@@ -43,20 +43,28 @@ Welcome to MedFlux, an AI-powered medical assistant web app. The mission is to p
 
 ### Screenshots
 <div align="center">
-    <img src="screenshots/home_page.png" alt="Home Page" width="380" height="225">
-    <img src="screenshots/symptom_analysis.png" alt="Symptom Analysis" width="380" height="225">
+    <img src="screenshots/homepg.png" alt="Home Page" width="380" height="225">
+    <img src="screenshots/symptom_analysis1.png" alt="Symptom Analysis" width="380" height="225">
 </div>
 <div align="center">
-    <img src="screenshots/analysis_result.png" alt="Analysis Result" width="380" height="225">
-    <img src="screenshots/ai_consultation.png" alt="AI Consultation" width="380" height="225">
+    <img src="screenshots/symptom_analysis2.png" alt="Analysis Result" width="380" height="225">
+    <img src="screenshots/mindbot1.png" alt="AI Consultation" width="380" height="225">
 </div>
 <div align="center">
-    <img src="screenshots/mind_bot.png" alt="Mind-Bot" width="380" height="225">
-    <img src="screenshots/mind_bot_response.png" alt="Mind-Bot Response" width="380" height="225">
+    <img src="screenshots/mindbot2.png" alt="Mind-Bot" width="380" height="225">
+    <img src="screenshots/mindbot3.png" alt="Mind-Bot Response" width="380" height="225">
 </div>
 <div align="center">
-    <img src="screenshots/consult_doctor.png" alt="Consult Doctor" width="380" height="225">
-    <img src="screenshots/doctor_appointment.png" alt="Doctor Appointment" width="380" height="225">
+    <img src="screenshots/mindbot4.png" alt="Consult Doctor" width="380" height="225">
+    <img src="screenshots/doc1.png" alt="Doctor Appointment" width="380" height="225">
+</div>
+<div align="center">
+    <img src="screenshots/doc2.png" alt="Consult Doctor" width="380" height="225">
+    <img src="screenshots/doc3.png" alt="Doctor Appointment" width="380" height="225">
+</div>
+<div align="center">
+    <img src="screenshots/booked.png" alt="Consult Doctor" width="380" height="225">
+    <img src="screenshots/devpg.png" alt="Doctor Appointment" width="380" height="225">
 </div>
 
 
