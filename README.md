@@ -87,7 +87,7 @@ Welcome to MedFlux, an AI-powered medical assistant web app. The mission is to p
 
 ### Architecture
 <p align="center">
-    <img src="screenshots/architecture.jpg" alt="Architecture"  width="600" height="329">
+    <img src="screenshots/arc.png" alt="Architecture"  width="600" height="329">
 </p>
 
 HealSmart offers a comprehensive healthcare solution by leveraging modern technologies and user-friendly design principles. The architecture is built around three main divisions:
